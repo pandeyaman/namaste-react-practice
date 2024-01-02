@@ -1,0 +1,32 @@
+{
+  "name": "01-inception",
+  "version": "1.0.0",
+  "description": "Namaste React Code Practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandeyaman/namaste-react-practice.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "aman",
+    "pandey",
+    "redux",
+    "hooks",
+    "npm"
+  ],
+  "author": "Aman Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandeyaman/namaste-react-practice/issues"
+  },
+  "homepage": "https://github.com/pandeyaman/namaste-react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
